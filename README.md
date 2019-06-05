@@ -110,6 +110,7 @@
 ### Сайты с контейнерами:
 #### https://www.turnkeylinux.org/ ( встроен в proxmox )
 #### https://bitnami.com/
+#### https://sourceforge.net/projects/ubuntu-business-desktop-lxc/  (Ubuntu контейнер с графической оболочкой)
 ### Nginx config to Proxmox:
 #### https://t.me/ru_proxmox/17722
 ### Правила фаервола для кластера:
