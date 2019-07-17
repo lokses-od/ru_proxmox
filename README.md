@@ -85,7 +85,10 @@
 #### https://pve.proxmox.com/wiki/Install_Proxmox_VE_on_Debian_Stretch
 #### От сообщества:
 #### https://t.me/ru_proxmox/1008
-
+####
+#### Установка Proxmox на Hetzner
+#### https://docs.google.com/document/d/1BIjRJ5_pG3x49KnhiKN7QsX_uY5bDlOyI-HjBlE-axE/edit
+ 
 ## Опросы:
 ### Опрос про версию Proxmox:
 #### https://t.me/ru_proxmox/33600
